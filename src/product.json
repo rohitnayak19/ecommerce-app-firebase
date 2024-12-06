@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "title": "Men's T-Shirt",
+    "category": "Clothes",
+    "price": 19.99,
+    "description": "A comfortable and stylish men's t-shirt made of soft cotton material.",
+    "rating": 4.5,
+    "images": [
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1717064433_5935952.jpg?format=webp&w=480&dpr=1.3",
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1717064433_1605649.jpg?format=webp&w=480&dpr=1.3",
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1717064433_9813302.jpg?format=webp&w=480&dpr=1.3",
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1717064433_2370188.jpg?format=webp&w=480&dpr=1.3",
+      "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1717064433_2370188.jpg?format=webp&w=480&dpr=1.3"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Women's Jacket",
+    "category": "Clothes",
+    "price": 49.99,
+    "description": "A stylish and warm women's jacket perfect for chilly days.",
+    "rating": 4.7,
+    "images": [
+      "https://assets.ajio.com/medias/sys_master/root/20241029/Atcx/67209d50260f9c41e8ab27c1/-473Wx593H-443058423-lime-MODEL.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20241029/RxAp/67209d50260f9c41e8ab273e/-473Wx593H-443058423-lime-MODEL3.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20241029/XW14/67209d50f9b8ef490bede84c/-473Wx593H-443058423-lime-MODEL4.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20241029/O1NA/67209d56f9b8ef490bede8db/-473Wx593H-443058423-lime-MODEL6.jpg",
+      "https://assets.ajio.com/medias/sys_master/root/20241029/O1NA/67209d56f9b8ef490bede8db/-473Wx593H-443058423-lime-MODEL6.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "iPhone 14 Pro",
+    "category": "Mobile",
+    "price": 999.99,
+    "description": "The latest iPhone with an advanced camera system and great performance.",
+    "rating": 4.9,
+    "images": [
+      "https://m.media-amazon.com/images/I/31irWzsdLsL._SY445_SX342_QL70_FMwebp_.jpg",
+      "https://m.media-amazon.com/images/I/61ofpWT1PHL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/711yt5-rPLL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/711yt5-rPLL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/91wGCiIAniL._SL1500_.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Samsung Galaxy S22",
+    "category": "Mobile",
+    "price": 799.99,
+    "description": "A powerful smartphone with an excellent display and camera system.",
+    "rating": 4.6,
+    "images": [
+      "https://m.media-amazon.com/images/I/71qZERyxy6L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/711yRdPvnRL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/711yRdPvnRL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71N-v8vbbhL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71N-v8vbbhL._SX679_.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "HP Pavilion Laptop",
+    "category": "Laptop",
+    "price": 599.99,
+    "description": "A reliable and affordable laptop perfect for everyday tasks.",
+    "rating": 4.2,
+    "images": [
+      "https://m.media-amazon.com/images/I/41A1L+fl6BL._SY300_SX300_.jpg",
+      "https://m.media-amazon.com/images/I/81cvPGddCaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81T7Ukrc+eL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81bRlROTekL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/819cTOxQM2L._SL1500_.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "MacBook Air M1",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "Lightweight and powerful, ideal for professionals and students.",
+    "rating": 4.8,
+    "images": [
+      "https://via.placeholder.com/150?text=Laptop+1",
+      "https://via.placeholder.com/150?text=Laptop+2",
+      "https://via.placeholder.com/150?text=Laptop+3",
+      "https://via.placeholder.com/150?text=Laptop+4",
+      "https://via.placeholder.com/150?text=Laptop+5"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sofa Set",
+    "category": "Home",
+    "price": 799.99,
+    "description": "A comfortable and elegant sofa set for your living room.",
+    "rating": 4.7,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Dining Table Set",
+    "category": "Home",
+    "price": 599.99,
+    "description": "A modern and stylish dining table set for family gatherings.",
+    "rating": 4.5,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Great Gatsby",
+    "category": "Books",
+    "price": 10.99,
+    "description": "A classic novel that explores the American Dream.",
+    "rating": 4.7,
+    "images": [
+      "https://via.placeholder.com/150?text=Books+1",
+      "https://via.placeholder.com/150?text=Books+2",
+      "https://via.placeholder.com/150?text=Books+3",
+      "https://via.placeholder.com/150?text=Books+4",
+      "https://via.placeholder.com/150?text=Books+5"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "To Kill a Mockingbird",
+    "category": "Books",
+    "price": 14.99,
+    "description": "A gripping novel about racism and justice in the American South.",
+    "rating": 4.8,
+    "images": [
+      "https://via.placeholder.com/150?text=Books+1",
+      "https://via.placeholder.com/150?text=Books+2",
+      "https://via.placeholder.com/150?text=Books+3",
+      "https://via.placeholder.com/150?text=Books+4",
+      "https://via.placeholder.com/150?text=Books+5"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Nike Air Max",
+    "category": "Shoes",
+    "price": 120.99,
+    "description": "Comfortable and stylish shoes for daily wear.",
+    "rating": 4.6,
+    "images": [
+      "https://via.placeholder.com/150?text=Shoes+1",
+      "https://via.placeholder.com/150?text=Shoes+2",
+      "https://via.placeholder.com/150?text=Shoes+3",
+      "https://via.placeholder.com/150?text=Shoes+4",
+      "https://via.placeholder.com/150?text=Shoes+5"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Adidas UltraBoost",
+    "category": "Shoes",
+    "price": 140.99,
+    "description": "A premium running shoe designed for comfort and performance.",
+    "rating": 4.8,
+    "images": [
+      "https://via.placeholder.com/150?text=Shoes+1",
+      "https://via.placeholder.com/150?text=Shoes+2",
+      "https://via.placeholder.com/150?text=Shoes+3",
+      "https://via.placeholder.com/150?text=Shoes+4",
+      "https://via.placeholder.com/150?text=Shoes+5"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Smart LED Light Bulb",
+    "category": "Home",
+    "price": 25.99,
+    "description": "A smart LED bulb that you can control with your phone.",
+    "rating": 4.3,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Bluetooth Speaker",
+    "category": "Home",
+    "price": 39.99,
+    "description": "Portable Bluetooth speaker with great sound quality.",
+    "rating": 4.6,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Hobbit",
+    "category": "Books",
+    "price": 11.99,
+    "description": "A fantasy adventure novel by J.R.R. Tolkien.",
+    "rating": 4.5,
+    "images": [
+      "https://via.placeholder.com/150?text=Books+1",
+      "https://via.placeholder.com/150?text=Books+2",
+      "https://via.placeholder.com/150?text=Books+3",
+      "https://via.placeholder.com/150?text=Books+4",
+      "https://via.placeholder.com/150?text=Books+5"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "category": "Books",
+    "price": 15.99,
+    "description": "The first book in the Harry Potter series by J.K. Rowling.",
+    "rating": 4.9,
+    "images": [
+      "https://via.placeholder.com/150?text=Books+1",
+      "https://via.placeholder.com/150?text=Books+2",
+      "https://via.placeholder.com/150?text=Books+3",
+      "https://via.placeholder.com/150?text=Books+4",
+      "https://via.placeholder.com/150?text=Books+5"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Nike Running Shoes",
+    "category": "Shoes",
+    "price": 90.99,
+    "description": "High-performance running shoes from Nike.",
+    "rating": 4.4,
+    "images": [
+      "https://via.placeholder.com/150?text=Shoes+1",
+      "https://via.placeholder.com/150?text=Shoes+2",
+      "https://via.placeholder.com/150?text=Shoes+3",
+      "https://via.placeholder.com/150?text=Shoes+4",
+      "https://via.placeholder.com/150?text=Shoes+5"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Samsung Smart TV",
+    "category": "Home",
+    "price": 499.99,
+    "description": "4K UHD Smart TV with stunning picture quality.",
+    "rating": 4.8,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "LG Washing Machine",
+    "category": "Home",
+    "price": 349.99,
+    "description": "Energy-efficient washing machine with multiple wash modes.",
+    "rating": 4.3,
+    "images": [
+      "https://via.placeholder.com/150?text=Home+1",
+      "https://via.placeholder.com/150?text=Home+2",
+      "https://via.placeholder.com/150?text=Home+3",
+      "https://via.placeholder.com/150?text=Home+4",
+      "https://via.placeholder.com/150?text=Home+5"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Nike Sneakers",
+    "category": "Shoes",
+    "price": 110.99,
+    "description": "Stylish sneakers from Nike that offer comfort and performance.",
+    "rating": 4.6,
+    "images": [
+      "https://via.placeholder.com/150?text=Shoes+1",
+      "https://via.placeholder.com/150?text=Shoes+2",
+      "https://via.placeholder.com/150?text=Shoes+3",
+      "https://via.placeholder.com/150?text=Shoes+4",
+      "https://via.placeholder.com/150?text=Shoes+5"
+    ]
+  }
+]
